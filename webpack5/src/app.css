@@ -1,0 +1,13 @@
+.test {
+  color: red;
+}
+.test .img {
+  background-image: url('pig.jpeg');
+  width: 200px;
+  height: 200px;
+  background-size: contain;
+}
+.test img {
+  width: 100px;
+  height: 100px;
+}
