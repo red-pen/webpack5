@@ -16,7 +16,7 @@ module.exports = () => {
       watchFiles: {
         options: {
           aggregateTimeout: 200,
-          ignored: ['**/public'],
+          ignored: ['**/public', '**/node_modules'],
         },
       },
       compress: true,
