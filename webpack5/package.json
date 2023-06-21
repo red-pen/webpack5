@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacob-lcs/react-webpack5-template.git"
+    "url": "https://github.com/red-pen/webpack5.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "red-pen",
   "license": "ISC",
-  "homepage": "https://github.com/jacob-lcs/react-webpack5-template#readme",
+  "homepage": "https://github.com/red-pen/webpack5/tree/main/webpack5",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
